@@ -6,7 +6,13 @@ import time
 import gzip
 import urllib.request
 
-from config import TMDB_API_KEY
+try:
+    from config import TMDB_API_KEY
+except ImportError:
+    TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
+
+if not TMDB_API_KEY:
+    raise ValueError("Error: TMDB_API_KEY is missing! Check your Github Secrets or local config.py.") 
 
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 
