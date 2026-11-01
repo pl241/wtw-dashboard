@@ -28,11 +28,11 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
-          python your_scraper_script.py
+          python tmdb_fetcher.py
 
       - name: Commit & Push Updated JSON
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add netflix_hk_hybrid_all.json tmdb_metadata_cache.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update netflix_hk_hybrid_all.json [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update netflix_hk_hybrid_all.json and cache [skip ci]" && git push)
