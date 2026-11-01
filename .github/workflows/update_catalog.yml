@@ -34,5 +34,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add netflix_hk_hybrid_all.json
+          git add netflix_hk_hybrid_all.json tmdb_metadata_cache.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update netflix_hk_hybrid_all.json [skip ci]" && git push)
