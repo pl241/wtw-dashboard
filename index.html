@@ -3,13 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Netflix HK Streaming Catalog</title>
+  <title>What to Watch Catalog</title>
   <style>
     :root {
       --bg-color: #141414;
       --card-bg: #1f1f1f;
       --text-color: #ffffff;
       --accent-red: #e50914;
+      --accent-hbo: #5a2d82;
       --subtext-color: #aaaaaa;
       --border-color: #333333;
     }
@@ -55,14 +56,15 @@
       gap: 12px;
     }
 
-    /* Search Bar Input */
+    /* Search Bar Layout with Clear Button */
     .search-box {
+      position: relative;
       width: 100%;
     }
 
     .search-input {
       width: 100%;
-      padding: 12px 14px;
+      padding: 12px 38px 12px 14px;
       font-size: 1rem;
       border-radius: 8px;
       border: 1px solid var(--border-color);
@@ -76,6 +78,26 @@
     .search-input:focus {
       border-color: var(--accent-red);
       box-shadow: 0 0 8px rgba(229, 9, 20, 0.4);
+    }
+
+    .search-clear-btn {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--subtext-color);
+      font-size: 1.2rem;
+      cursor: pointer;
+      display: none;
+      padding: 4px;
+      line-height: 1;
+      z-index: 2;
+    }
+
+    .search-clear-btn:hover {
+      color: #fff;
     }
 
     /* Dropdown Filters Grid */
@@ -247,8 +269,15 @@
       text-transform: uppercase;
       letter-spacing: 0.5px;
       color: #fff;
-      background-color: var(--accent-red);
       z-index: 2;
+    }
+
+    .badge-netflix {
+      background-color: var(--accent-red);
+    }
+
+    .badge-hbo {
+      background-color: var(--accent-hbo);
     }
 
     .card-details {
@@ -313,7 +342,7 @@
       text-decoration: underline;
     }
 
-    /* Styled Netflix Red Link */
+    /* Styled Platform Links */
     .external-link.netflix-link {
       color: var(--accent-red);
       font-weight: 600;
@@ -321,6 +350,16 @@
 
     .external-link.netflix-link:hover {
       color: #ff2a35;
+      text-decoration: underline;
+    }
+
+    .external-link.hbo-link {
+      color: #9b51e0;
+      font-weight: 600;
+    }
+
+    .external-link.hbo-link:hover {
+      color: #b070f0;
       text-decoration: underline;
     }
 
@@ -335,12 +374,12 @@
 <body>
 
   <header>
-    <h1>Netflix Hong Kong Catalog</h1>
-    <div class="subtitle">High-performance real-time streaming index</div>
+    <h1>What to Watch Catalog</h1>
+    <div class="subtitle">High-performance multi-platform streaming index</div>
 
     <!-- Controls Panel -->
     <div class="controls-panel">
-      <!-- Search Input -->
+      <!-- Search Input with Clear Button -->
       <div class="search-box">
         <input
           type="text"
@@ -348,18 +387,26 @@
           class="search-input"
           placeholder="🔍 Search titles by name..."
         />
+        <button type="button" id="searchClearBtn" class="search-clear-btn" title="Clear search (Esc)">×</button>
       </div>
 
       <!-- Category Filter Dropdowns -->
       <div class="filter-group">
-        <!-- 1. Format Filter (Single Select) -->
+        <!-- 1. Platform Filter (Single Select) -->
+        <select id="platformSelect" class="filter-select">
+          <option value="ALL">All Platforms</option>
+          <option value="Netflix">Netflix Only</option>
+          <option value="HBO">HBO Only</option>
+        </select>
+
+        <!-- 2. Format Filter (Single Select) -->
         <select id="typeSelect" class="filter-select">
           <option value="ALL">All Formats</option>
           <option value="movie">Movies Only</option>
           <option value="series">Series / Shows Only</option>
         </select>
 
-        <!-- 2. Release Year Filter (Multi-Select) -->
+        <!-- 3. Release Year Filter (Multi-Select) -->
         <div class="multi-select" id="yearFilter">
           <button type="button" class="multi-select-btn" onclick="toggleDropdown('yearFilter')">
             <span id="yearBtnText">All Years</span> ▾
@@ -369,7 +416,7 @@
           </div>
         </div>
 
-        <!-- 3. Genre Filter (Multi-Select) -->
+        <!-- 4. Genre Filter (Multi-Select) -->
         <div class="multi-select" id="genreFilter">
           <button type="button" class="multi-select-btn" onclick="toggleDropdown('genreFilter')">
             <span id="genreBtnText">All Genres</span> ▾
@@ -379,7 +426,7 @@
           </div>
         </div>
 
-        <!-- 4. Region / Language Filter (Multi-Select) -->
+        <!-- 5. Region / Language Filter (Multi-Select) -->
         <div class="multi-select" id="regionFilter">
           <button type="button" class="multi-select-btn" onclick="toggleDropdown('regionFilter')">
             <span id="regionBtnText">All Regions</span> ▾
@@ -389,12 +436,12 @@
           </div>
         </div>
 
-        <!-- 5. Sorting Order (Single Select) -->
+        <!-- 6. Sorting Order (Single Select) - Default to Newest -->
         <select id="sortSelect" class="filter-select">
+          <option value="year" selected>Sort by Newest</option>
           <option value="weighted">Sort by Weighted Score</option>
           <option value="raw">Sort by IMDb Score</option>
           <option value="votes">Sort by Most Voted</option>
-          <option value="year">Sort by Newest</option>
         </select>
       </div>
     </div>
@@ -527,7 +574,18 @@
 
     // 3. Filter and Sort Logic
     function applyFilters() {
-      const searchQuery = document.getElementById("searchInput").value.toLowerCase().trim();
+      const searchInput = document.getElementById("searchInput");
+      const clearBtn = document.getElementById("searchClearBtn");
+      const searchQuery = searchInput.value.toLowerCase().trim();
+
+      // Show/hide clear cross button based on input content
+      if (searchInput.value.length > 0) {
+        clearBtn.style.display = "block";
+      } else {
+        clearBtn.style.display = "none";
+      }
+
+      const selectedPlatform = document.getElementById("platformSelect").value;
       const selectedType = document.getElementById("typeSelect").value;
       const selectedYears = getSelectedValues("yearDropdownList");
       const selectedGenres = getSelectedValues("genreDropdownList");
@@ -536,6 +594,9 @@
 
       let filtered = masterData.filter(item => {
         const matchesSearch = searchQuery === "" || (item.title && item.title.toLowerCase().includes(searchQuery));
+
+        const itemPlatform = item.platform || 'Netflix';
+        let matchesPlatform = selectedPlatform === "ALL" || itemPlatform.toLowerCase() === selectedPlatform.toLowerCase();
 
         const isSeries = checkIfSeries(item);
         let matchesType = true;
@@ -553,10 +614,10 @@
 
         const isNewOrValid = (item.raw_score && item.raw_score > 0) || (item.year && item.year >= 2025);
 
-        return matchesSearch && matchesType && matchesYear && matchesGenre && matchesRegion && isNewOrValid;
+        return matchesSearch && matchesPlatform && matchesType && matchesYear && matchesGenre && matchesRegion && isNewOrValid;
       });
 
-      // Sorting Logic
+      // Sorting Logic (Defaults to Year / Newest)
       filtered.sort((a, b) => {
         const scoreA = a.weighted_score || 0;
         const scoreB = b.weighted_score || 0;
@@ -570,11 +631,20 @@
         if (selectedSort === 'weighted') return scoreB - scoreA;
         if (selectedSort === 'raw') return rawB - rawA;
         if (selectedSort === 'votes') return votesB - votesA;
-        if (selectedSort === 'year') return yearB - yearA;
-        return 0;
+        return yearB - yearA; // Default/Newest
       });
 
       renderCatalog(filtered);
+    }
+
+    // Clear Search Input Function
+    function clearSearch() {
+      const searchInput = document.getElementById("searchInput");
+      if (searchInput.value !== "") {
+        searchInput.value = "";
+        applyFilters();
+      }
+      searchInput.focus();
     }
 
     // 4. Render Cards into Grid
@@ -605,16 +675,31 @@
         const mediaTypePath = isSeries ? 'tv' : 'movie';
         const tmdbUrl = item.tmdb_id ? `https://www.themoviedb.org/${mediaTypePath}/${item.tmdb_id}` : null;
 
-        // Netflix Link Construction: Uses netflix_id if present, otherwise constructs dynamic search query
-        const netflixUrl = item.netflix_id
-          ? `https://www.netflix.com/title/${item.netflix_id}`
-          : `https://www.netflix.com/search?q=${encodeURIComponent(item.title)}`;
+        const platformName = item.platform || 'Netflix';
+        const badgeClass = platformName.toLowerCase() === 'hbo' ? 'badge-hbo' : 'badge-netflix';
+
+        // Platform Link Construction
+        let platformUrl = '';
+        let platformLinkClass = '';
+        let platformLinkText = '';
+
+        if (platformName.toLowerCase() === 'hbo') {
+          platformUrl = `https://www.max.com/search?q=${encodeURIComponent(item.title)}`;
+          platformLinkClass = 'external-link hbo-link';
+          platformLinkText = 'HBO ↗';
+        } else {
+          platformUrl = item.netflix_id
+            ? `https://www.netflix.com/title/${item.netflix_id}`
+            : `https://www.netflix.com/search?q=${encodeURIComponent(item.title)}`;
+          platformLinkClass = 'external-link netflix-link';
+          platformLinkText = 'Netflix ↗';
+        }
 
         const card = document.createElement("div");
         card.className = "card";
         card.innerHTML = `
           <div class="poster-wrapper">
-            <span class="platform-badge">Netflix</span>
+            <span class="platform-badge ${badgeClass}">${platformName}</span>
             <img class="poster-img" src="${posterSrc}" alt="${item.title || 'Title'}" loading="lazy" onerror="this.src='https://via.placeholder.com/300x450?text=No+Poster'" />
           </div>
           <div class="card-details">
@@ -625,7 +710,7 @@
             <div class="rating-row">
               ${ratingHtml}
               <div class="links-group">
-                <a class="external-link netflix-link" href="${netflixUrl}" target="_blank" rel="noopener">Netflix ↗</a>
+                <a class="${platformLinkClass}" href="${platformUrl}" target="_blank" rel="noopener">${platformLinkText}</a>
                 ${tmdbUrl ? `<a class="external-link" href="${tmdbUrl}" target="_blank" rel="noopener">TMDB ↗</a>` : ''}
                 ${item.imdb_url && item.imdb_url !== "N/A" ? `<a class="external-link" href="${item.imdb_url}" target="_blank" rel="noopener">IMDb ↗</a>` : ''}
               </div>
@@ -638,8 +723,20 @@
 
     // 5. Attach Event Listeners
     document.getElementById("searchInput").addEventListener("input", applyFilters);
+    document.getElementById("searchClearBtn").addEventListener("click", clearSearch);
+    document.getElementById("platformSelect").addEventListener("change", applyFilters);
     document.getElementById("typeSelect").addEventListener("change", applyFilters);
     document.getElementById("sortSelect").addEventListener("change", applyFilters);
+
+    // Global Keydown Handler: Escape key clears search
+    document.addEventListener("keydown", function(e) {
+      if (e.key === "Escape") {
+        const searchInput = document.getElementById("searchInput");
+        if (searchInput.value !== "") {
+          clearSearch();
+        }
+      }
+    });
 
     // Initial Execution
     loadCatalog();
