@@ -408,6 +408,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg"
     },
     {
+        "title": "Inception",
+        "year": 2010,
+        "genres": "Action, Sci-Fi, Crime",
+        "raw_score": 8.8,
+        "weighted_score": 8.799721153599682,
+        "votes": 2886544,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt1375666/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+    },
+    {
         "title": "Fight Club",
         "year": 1999,
         "genres": "Drama, Thriller",
@@ -2496,6 +2508,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg"
     },
     {
+        "title": "Pablo Escobar: The Drug Lord",
+        "year": 2012,
+        "genres": "Crime, Drama (Series)",
+        "raw_score": 8.4,
+        "weighted_score": 8.312245975191344,
+        "votes": 7228,
+        "platform": "Netflix",
+        "region": "Spanish / Latin Cinema",
+        "imdb_url": "https://www.imdb.com/title/tt2187850/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5u02bo70uzUFpEV9Pd0lFkLA9Es.jpg"
+    },
+    {
         "title": "First Love",
         "year": 2022,
         "genres": "Drama (Series)",
@@ -2774,7 +2798,7 @@
     {
         "title": "Re:ZERO -Starting Life in Another World-",
         "year": 2016,
-        "genres": "Animation, Mystery, Action & Adventure, Sci-Fi & Fantasy, Drama (Series)",
+        "genres": "Animation, Mystery, Action & Adventure, Sci-Fi & Fantasy (Series)",
         "raw_score": 8.3,
         "weighted_score": 8.293730719474576,
         "votes": 100140,
@@ -2974,18 +2998,6 @@
         "region": "Korean Cinema / K-Film",
         "imdb_url": "https://www.imdb.com/title/tt14518756/",
         "poster_url": "https://image.tmdb.org/t/p/w500/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg"
-    },
-    {
-        "title": "Rescue Me",
-        "year": 2004,
-        "genres": "Drama (Series)",
-        "raw_score": 8.3,
-        "weighted_score": 8.279450044035622,
-        "votes": 30307,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0381798/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg"
     },
     {
         "title": "Dave Chappelle: Sticks & Stones",
@@ -4690,6 +4702,18 @@
         "region": "Korean Cinema / K-Film",
         "imdb_url": "https://www.imdb.com/title/tt14819828/",
         "poster_url": "https://image.tmdb.org/t/p/w500/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg"
+    },
+    {
+        "title": "Beckham",
+        "year": 2023,
+        "genres": "Documentary (Series)",
+        "raw_score": 8.1,
+        "weighted_score": 8.086437065562256,
+        "votes": 40939,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt14524712/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/y9d3trMAczZWFqYvGSW6V695vf3.jpg"
     },
     {
         "title": "Seaspiracy",
@@ -7032,6 +7056,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg"
     },
     {
+        "title": "Altered Carbon",
+        "year": 2018,
+        "genres": "Sci-Fi & Fantasy, Drama (Series)",
+        "raw_score": 7.9,
+        "weighted_score": 7.897615119171036,
+        "votes": 205111,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt2261227/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/AisK4uFsnwwmMkSynFpNl0VeGR.jpg"
+    },
+    {
         "title": "Grimm",
         "year": 2011,
         "genres": "Drama, Mystery, Sci-Fi & Fantasy (Series)",
@@ -8889,7 +8925,7 @@
         "platform": "Netflix",
         "region": "Korean Cinema / K-Film",
         "imdb_url": "https://www.imdb.com/title/tt30293074/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/iaFykXvbKC24mbXWdhOZZk9rnO0.jpg"
     },
     {
         "title": "Jane Fonda in Five Acts",
@@ -9262,6 +9298,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt3260524/",
         "poster_url": "https://image.tmdb.org/t/p/w500/28LNd4KEpqt9i8sgXrVcrdr2kgI.jpg"
+    },
+    {
+        "title": "Castaway Diva",
+        "year": 2023,
+        "genres": "Comedy, Drama (Series)",
+        "raw_score": 7.8,
+        "weighted_score": 7.720133403545725,
+        "votes": 5347,
+        "platform": "Netflix",
+        "region": "Korean Cinema / K-Film",
+        "imdb_url": "https://www.imdb.com/title/tt28348835/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/oYOxdgfPogMoXPizBjKcZx7f9k2.jpg"
     },
     {
         "title": "Andragogy",
@@ -9658,6 +9706,18 @@
         "region": "Japanese Cinema / Anime",
         "imdb_url": "https://www.imdb.com/title/tt0104652/",
         "poster_url": "https://image.tmdb.org/t/p/w500/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg"
+    },
+    {
+        "title": "Russian Doll",
+        "year": 2019,
+        "genres": "Comedy, Drama (Series)",
+        "raw_score": 7.7,
+        "weighted_score": 7.696440587472563,
+        "votes": 117647,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt7520794/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1ju4vQ1EwlIkQxEgWiYmxOs3iBG.jpg"
     },
     {
         "title": "Paprika",
@@ -11040,6 +11100,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/qtgFcnwh9dAFLocsDk2ySDVS8UF.jpg"
     },
     {
+        "title": "The Butterfly Effect",
+        "year": 2004,
+        "genres": "Sci-Fi, Thriller",
+        "raw_score": 7.6,
+        "weighted_score": 7.599317845170344,
+        "votes": 564038,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0289879/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg"
+    },
+    {
         "title": "Ejen Ali: The Movie",
         "year": 2019,
         "genres": "Animation, Action, Adventure, Family, Sci-Fi",
@@ -12072,6 +12144,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ksY7AvuiNo62FS2n9pn8AO7gL5m.jpg"
     },
     {
+        "title": "3Below: Tales of Arcadia",
+        "year": 2018,
+        "genres": "Animation, Family, Comedy, Sci-Fi & Fantasy (Series)",
+        "raw_score": 7.6,
+        "weighted_score": 7.557392651615759,
+        "votes": 8686,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt7736544/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/eWoplw8QJhSGDnhyYCrs9OugdTj.jpg"
+    },
+    {
         "title": "HOMECOMING: A film by Beyoncé",
         "year": 2019,
         "genres": "Documentary, Music, TV Movie",
@@ -12384,6 +12468,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4YShR1hfjNl1Hltjm9PE5UClZSd.jpg"
     },
     {
+        "title": "Blue Period",
+        "year": 2021,
+        "genres": "Animation, Drama (Series)",
+        "raw_score": 7.6,
+        "weighted_score": 7.532868352223191,
+        "votes": 5385,
+        "platform": "Netflix",
+        "region": "Japanese Cinema / Anime",
+        "imdb_url": "https://www.imdb.com/title/tt14115912/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/bK669RsJ4xaZYHvc144iKlEyzJ7.jpg"
+    },
+    {
         "title": "Romantic Killer",
         "year": 2022,
         "genres": "Animation, Comedy (Series)",
@@ -12610,6 +12706,18 @@
         "region": "Korean Cinema / K-Film",
         "imdb_url": "https://www.imdb.com/title/tt27554348/",
         "poster_url": "https://image.tmdb.org/t/p/w500/mWGil4jL1jaCoZkZuaNThh0aoVC.jpg"
+    },
+    {
+        "title": "Long Story Short",
+        "year": 2025,
+        "genres": "Comedy, Animation (Series)",
+        "raw_score": 7.6,
+        "weighted_score": 7.515328788212008,
+        "votes": 4197,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt33247080/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/22nh2kTuFpitrqTxxixhWjxEqFa.jpg"
     },
     {
         "title": "Welcome to Demon School! Iruma-kun",
@@ -13068,6 +13176,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg"
     },
     {
+        "title": "3 Body Problem",
+        "year": 2024,
+        "genres": "Sci-Fi & Fantasy, Mystery, Drama (Series)",
+        "raw_score": 7.5,
+        "weighted_score": 7.498130940937734,
+        "votes": 186910,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt13016388/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg"
+    },
+    {
         "title": "Lupin",
         "year": 2021,
         "genres": "Crime, Drama, Mystery (Series)",
@@ -13270,6 +13390,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt9446688/",
         "poster_url": "https://image.tmdb.org/t/p/w500/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg"
+    },
+    {
+        "title": "Unbreakable Kimmy Schmidt",
+        "year": 2015,
+        "genres": "Comedy (Series)",
+        "raw_score": 7.5,
+        "weighted_score": 7.495866304476202,
+        "votes": 84320,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt3339966/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg"
     },
     {
         "title": "Judah Friedlander: America Is the Greatest Country in the United States",
@@ -15348,18 +15480,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3tDbJxobPN3EI2bBebL6zmusmw5.jpg"
     },
     {
-        "title": "Designated Survivor",
-        "year": 2016,
-        "genres": "Drama (Series)",
-        "raw_score": 7.4,
-        "weighted_score": 7.397323090258598,
-        "votes": 117323,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt5296406/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5R125JAIh1N38pzHp2dRsBpOVNY.jpg"
-    },
-    {
         "title": "Judas and the Black Messiah",
         "year": 2021,
         "genres": "Drama, History",
@@ -15826,6 +15946,18 @@
         "region": "International / Global Catalog",
         "imdb_url": "https://www.imdb.com/title/tt10516352/",
         "poster_url": "https://image.tmdb.org/t/p/w500/pvXfFqcaumvf6BgQHSFQ5n4Fgk0.jpg"
+    },
+    {
+        "title": "Love Life",
+        "year": 2020,
+        "genres": "Comedy, Drama (Series)",
+        "raw_score": 7.4,
+        "weighted_score": 7.383838694782208,
+        "votes": 19141,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt10380768/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/yIlbPxb7KC4k112v8vattKwLsN7.jpg"
     },
     {
         "title": "Taking Chance",
@@ -17664,6 +17796,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/qz0EgfYwfrqhC2yTIqNkSY4P2Jo.jpg"
     },
     {
+        "title": "Finding Forrester",
+        "year": 2000,
+        "genres": "Drama, History",
+        "raw_score": 7.3,
+        "weighted_score": 7.29710576366493,
+        "votes": 96394,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0181536/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/chd9bCGNYtzDoJqGw5wUHlhrkOb.jpg"
+    },
+    {
         "title": "The Fundamentals of Caring",
         "year": 2016,
         "genres": "Comedy, Drama",
@@ -19284,18 +19428,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg"
     },
     {
-        "title": "NieR:Automata Ver1.1a",
-        "year": 2023,
-        "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy (Series)",
-        "raw_score": 7.3,
-        "weighted_score": 7.22418088275115,
-        "votes": 3343,
-        "platform": "Netflix",
-        "region": "Japanese Cinema / Anime",
-        "imdb_url": "https://www.imdb.com/title/tt18311412/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qHSCYOXHV3EKXKkMxUvC9rGx4Av.jpg"
-    },
-    {
         "title": "The Dream Life of Mr. Kim",
         "year": 2025,
         "genres": "Comedy, Drama (Series)",
@@ -20616,18 +20748,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/crvYcZTN7TTEa85nClY3JqL2F0O.jpg"
     },
     {
-        "title": "TIGER & BUNNY",
-        "year": 2011,
-        "genres": "Action & Adventure, Animation, Comedy, Sci-Fi & Fantasy (Series)",
-        "raw_score": 7.3,
-        "weighted_score": 7.1740440845704,
-        "votes": 1873,
-        "platform": "Netflix",
-        "region": "Japanese Cinema / Anime",
-        "imdb_url": "https://www.imdb.com/title/tt2061527/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iJWLZbCvnFXpTlNH9mn0whRNVMK.jpg"
-    },
-    {
         "title": "Duster",
         "year": 2025,
         "genres": "Crime, Drama (Series)",
@@ -21862,6 +21982,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt0770828/",
         "poster_url": "https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg"
+    },
+    {
+        "title": "Transformers",
+        "year": 2007,
+        "genres": "Adventure, Sci-Fi, Action",
+        "raw_score": 7.1,
+        "weighted_score": 7.099712359895299,
+        "votes": 729729,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0418279/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg"
     },
     {
         "title": "Transformers",
@@ -23664,6 +23796,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/xM40r6PbzaumRyJyuxrtSvwtfAF.jpg"
     },
     {
+        "title": "Dinner Time Live with David Chang",
+        "year": 2024,
+        "genres": "Reality TV",
+        "raw_score": 7.5,
+        "weighted_score": 7.036423841059602,
+        "votes": 405,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt31035004/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6isaKyEbUyTlks7eWxTwfAUpXA3.jpg"
+    },
+    {
         "title": "David Cross: The Pride Is Back",
         "year": 1999,
         "genres": "Comedy, Documentary, TV Movie",
@@ -23758,6 +23902,18 @@
         "region": "Japanese Cinema / Anime",
         "imdb_url": "https://www.imdb.com/title/tt16444750/",
         "poster_url": "https://image.tmdb.org/t/p/w500/3TTSYnXJyDXEadiG1BMangdq3XV.jpg"
+    },
+    {
+        "title": "I Parry Everything",
+        "year": 2024,
+        "genres": "Animation, Action & Adventure (Series)",
+        "raw_score": 7.1,
+        "weighted_score": 7.029742388758782,
+        "votes": 2639,
+        "platform": "Netflix",
+        "region": "Japanese Cinema / Anime",
+        "imdb_url": "https://www.imdb.com/title/tt32395862/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/nVmc8K5J7SGMlE6tA5lVzVzAzQ9.jpg"
     },
     {
         "title": "My Bias, My Boss",
@@ -24480,18 +24636,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dap1rGaaxLUW1K2kDKgkO7qu2nb.jpg"
     },
     {
-        "title": "Charlie Wilson's War",
-        "year": 2007,
-        "genres": "Comedy, Drama, History",
-        "raw_score": 7.0,
-        "weighted_score": 6.998692566305565,
-        "votes": 133500,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0472062/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/45FghqcdSYRWK7PsHUInaFPNd8l.jpg"
-    },
-    {
         "title": "Juror #2",
         "year": 2024,
         "genres": "Drama, Thriller",
@@ -24766,6 +24910,18 @@
         "region": "Hong Kong Cinema (Cantonese)",
         "imdb_url": "https://www.imdb.com/title/tt0104558/",
         "poster_url": "https://image.tmdb.org/t/p/w500/mUJOyCd4g0pNsU8thYI7UGrIpkl.jpg"
+    },
+    {
+        "title": "Police Story 2",
+        "year": 1988,
+        "genres": "Action, Crime, Thriller",
+        "raw_score": 7.0,
+        "weighted_score": 6.9932955329093565,
+        "votes": 25752,
+        "platform": "Netflix",
+        "region": "Hong Kong Cinema (Cantonese)",
+        "imdb_url": "https://www.imdb.com/title/tt0095403/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kjq1FXtHh9i2sIuM0JaoYf43FDU.jpg"
     },
     {
         "title": "Come Back Alive",
@@ -25066,6 +25222,18 @@
         "region": "Japanese Cinema / Anime",
         "imdb_url": "https://www.imdb.com/title/tt32332813/",
         "poster_url": "https://image.tmdb.org/t/p/w500/21bYoggswt5hFKqqsUBLUx1smHz.jpg"
+    },
+    {
+        "title": "Doona!",
+        "year": 2023,
+        "genres": "Drama (Series)",
+        "raw_score": 7.0,
+        "weighted_score": 6.980400940754843,
+        "votes": 8579,
+        "platform": "Netflix",
+        "region": "Korean Cinema / K-Film",
+        "imdb_url": "https://www.imdb.com/title/tt24245988/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/bQhiOkU3lCu5pwCqPdNVG5GBLlj.jpg"
     },
     {
         "title": "Air Force Elite: Thunderbirds",
@@ -25450,18 +25618,6 @@
         "region": "Spanish / Latin Cinema",
         "imdb_url": "https://www.imdb.com/title/tt34058121/",
         "poster_url": "https://image.tmdb.org/t/p/w500/5Te2bKuSyVkqt0m2GdSueU4dfCZ.jpg"
-    },
-    {
-        "title": "Tricky Brains",
-        "year": 1991,
-        "genres": "Comedy, Romance",
-        "raw_score": 7.0,
-        "weighted_score": 6.954044117647059,
-        "votes": 3458,
-        "platform": "Netflix",
-        "region": "Hong Kong Cinema (Cantonese)",
-        "imdb_url": "https://www.imdb.com/title/tt0103328/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4zehVfzyp4r4FXgYT7TPZhe1P3o.jpg"
     },
     {
         "title": "Katrina Babies",
@@ -26436,6 +26592,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg"
     },
     {
+        "title": "In the Heart of the Sea",
+        "year": 2015,
+        "genres": "Thriller, Drama, Adventure, Action, History",
+        "raw_score": 6.9,
+        "weighted_score": 6.89913357758194,
+        "votes": 161234,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt1390411/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/weVvNPfk6FM9vBg3BXtRtNAmiYM.jpg"
+    },
+    {
         "title": "Babe",
         "year": 1995,
         "genres": "Fantasy, Drama, Comedy, Family",
@@ -26578,6 +26746,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt0910554/",
         "poster_url": "https://image.tmdb.org/t/p/w500/r67KzlHkdiwe3fBWzImEkNOg1Y.jpg"
+    },
+    {
+        "title": "The Night Comes For Us",
+        "year": 2018,
+        "genres": "Action, Crime, Thriller",
+        "raw_score": 6.9,
+        "weighted_score": 6.895906911472343,
+        "votes": 33854,
+        "platform": "Netflix",
+        "region": "International / Global Catalog",
+        "imdb_url": "https://www.imdb.com/title/tt6116856/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg"
     },
     {
         "title": "Run Away",
@@ -27384,6 +27564,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg"
     },
     {
+        "title": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
+        "year": 2023,
+        "genres": "Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy (Series)",
+        "raw_score": 6.9,
+        "weighted_score": 6.853580901856764,
+        "votes": 2666,
+        "platform": "Netflix",
+        "region": "Japanese Cinema / Anime",
+        "imdb_url": "https://www.imdb.com/title/tt27404658/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/aH3EKIPW9XRaIJQeF7EYlOe7SEK.jpg"
+    },
+    {
         "title": "Ren Faire",
         "year": 2024,
         "genres": "Documentary, Sci-Fi & Fantasy (Series)",
@@ -28182,6 +28374,18 @@
         "raw_score": 6.8,
         "weighted_score": 6.799622924739369,
         "votes": 278109,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt1401152/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zCuenUdbo0GQzqtj64a2Y8gcbiK.jpg"
+    },
+    {
+        "title": "Unknown",
+        "year": 2011,
+        "genres": "Action, Mystery, Thriller",
+        "raw_score": 6.8,
+        "weighted_score": 6.799622924739369,
+        "votes": 278109,
         "platform": "HBO",
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt1401152/",
@@ -28210,6 +28414,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt1684562/",
         "poster_url": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg"
+    },
+    {
+        "title": "The Power of the Dog",
+        "year": 2021,
+        "genres": "Drama, Western",
+        "raw_score": 6.8,
+        "weighted_score": 6.799573345902698,
+        "votes": 245751,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt10293406/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg"
     },
     {
         "title": "Lemony Snicket's A Series of Unfortunate Events",
@@ -29052,18 +29268,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cgzHLXOEILDwvj19tggt3ZLsfTF.jpg"
     },
     {
-        "title": "Reversi",
-        "year": 2024,
-        "genres": "Drama, Sci-Fi, Romance",
-        "raw_score": 7.0,
-        "weighted_score": 6.7784810126582276,
-        "votes": 440,
-        "platform": "Netflix",
-        "region": "International / Global Catalog",
-        "imdb_url": "https://www.imdb.com/title/tt30790771/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/afWnRF7mK7yNoJjx4AsoUdq1nqV.jpg"
-    },
-    {
         "title": "Sea Fog",
         "year": 2014,
         "genres": "Thriller, Drama",
@@ -29218,6 +29422,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt21388560/",
         "poster_url": "https://image.tmdb.org/t/p/w500/o75Sxg2s9zM817Whjc9b3vpk5sW.jpg"
+    },
+    {
+        "title": "CMXXIV",
+        "year": 2025,
+        "genres": "Comedy",
+        "raw_score": 6.8,
+        "weighted_score": 6.768971631205673,
+        "votes": 3034,
+        "platform": "Netflix",
+        "region": "International / Global Catalog",
+        "imdb_url": "https://www.imdb.com/title/tt39214430/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg"
     },
     {
         "title": "I'm Getting Married to a Girl I Hate in My Class",
@@ -30298,6 +30514,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt1386588/",
         "poster_url": "https://image.tmdb.org/t/p/w500/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg"
+    },
+    {
+        "title": "Warcraft",
+        "year": 2016,
+        "genres": "Action, Adventure, Fantasy",
+        "raw_score": 6.7,
+        "weighted_score": 6.69976634578154,
+        "votes": 299238,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0803096/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/eGi5aoxaZveqNLtE7BZJCuWwR3G.jpg"
     },
     {
         "title": "Mickey 17",
@@ -32160,18 +32388,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/yGWRakwQSAKne4w6uE3STLXktP1.jpg"
     },
     {
-        "title": "Robert Schimmel: Unprotected",
-        "year": 1999,
-        "genres": "Comedy",
-        "raw_score": 8.1,
-        "weighted_score": 6.6419999999999995,
-        "votes": 304,
-        "platform": "HBO",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0253594/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8Xk2XKecRk4DspQNC2uoia7xA7G.jpg"
-    },
-    {
         "title": "Alaska: Surviving the Last Frontier",
         "year": 2024,
         "genres": "Reality TV",
@@ -32748,18 +32964,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3nFnrivNgipSKZ8LZJJbRSlAcTR.jpg"
     },
     {
-        "title": "The Hunt",
-        "year": 2020,
-        "genres": "Action, Thriller, Horror",
-        "raw_score": 6.6,
-        "weighted_score": 6.59978169207355,
-        "votes": 159974,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt8244784/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg"
-    },
-    {
         "title": "Vantage Point",
         "year": 2008,
         "genres": "Drama, Action, Thriller, Crime",
@@ -32866,18 +33070,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt10696784/",
         "poster_url": "https://image.tmdb.org/t/p/w500/su9WzL7lwUZPhjH6eZByAYFx2US.jpg"
-    },
-    {
-        "title": "Woman of the Hour",
-        "year": 2024,
-        "genres": "Crime, Drama, Thriller",
-        "raw_score": 6.6,
-        "weighted_score": 6.599550544483254,
-        "votes": 77522,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt7737800/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg"
     },
     {
         "title": "Wicked: For Good",
@@ -33046,18 +33238,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt27613895/",
         "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
-    },
-    {
-        "title": "Max",
-        "year": 2015,
-        "genres": "Adventure, Drama, Family",
-        "raw_score": 6.6,
-        "weighted_score": 6.5989074108759445,
-        "votes": 31684,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt3369806/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d3ACos3t4YwXML8keTA0wKN8e36.jpg"
     },
     {
         "title": "Lady Chatterley's Lover",
@@ -34644,6 +34824,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg"
     },
     {
+        "title": "A Great Awakening",
+        "year": 2026,
+        "genres": "History, Drama",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 2014,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt33305882/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg"
+    },
+    {
         "title": "Jeff Ross: Take a Banana for the Ride",
         "year": 2026,
         "genres": "Comedy, TV Movie",
@@ -34896,18 +35088,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cKZu0Fdkj7dmwbfMpgDqVVCkLJQ.jpg"
     },
     {
-        "title": "The Lego Movie 2: The Second Part",
-        "year": 2019,
-        "genres": "Action, Adventure, Animation, Comedy, Family",
-        "raw_score": 6.5,
-        "weighted_score": 6.5,
-        "votes": 87579,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt3513498/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/QTESAsBVZwjtGJNDP7utiGV37z.jpg"
-    },
-    {
         "title": "Annabelle: Creation",
         "year": 2017,
         "genres": "Horror",
@@ -34932,16 +35112,16 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg"
     },
     {
-        "title": "Ocean's Twelve",
-        "year": 2004,
-        "genres": "Thriller, Crime",
+        "title": "The Lego Movie 2: The Second Part",
+        "year": 2019,
+        "genres": "Action, Adventure, Animation, Comedy, Family",
         "raw_score": 6.5,
         "weighted_score": 6.5,
-        "votes": 443872,
+        "votes": 87579,
         "platform": "Netflix",
         "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0349903/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg"
+        "imdb_url": "https://www.imdb.com/title/tt3513498/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/QTESAsBVZwjtGJNDP7utiGV37z.jpg"
     },
     {
         "title": "Pokémon Detective Pikachu",
@@ -34954,6 +35134,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt5884052/",
         "poster_url": "https://image.tmdb.org/t/p/w500/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg"
+    },
+    {
+        "title": "Ocean's Twelve",
+        "year": 2004,
+        "genres": "Thriller, Crime",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 443872,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0349903/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg"
     },
     {
         "title": "The Gray Man",
@@ -34980,6 +35172,30 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/o2YrH9jS7CAfWjETHFeL0tth79E.jpg"
     },
     {
+        "title": "Get Smart",
+        "year": 2008,
+        "genres": "Action, Comedy, Thriller",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 241517,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0425061/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/sZUjbtUS8qxXp4mj90evnqPJqX7.jpg"
+    },
+    {
+        "title": "The Man in the Iron Mask",
+        "year": 1998,
+        "genres": "Adventure, Action, Drama",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 193271,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0120744/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zHE9yRURvA7DyhYtQxkGTfE1Ywi.jpg"
+    },
+    {
         "title": "Kick-Ass 2",
         "year": 2013,
         "genres": "Action, Adventure, Crime",
@@ -35004,6 +35220,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/uKThqY2oRYSHOPxYryTp2550fuZ.jpg"
     },
     {
+        "title": "Heist",
+        "year": 2001,
+        "genres": "Action, Crime, Drama, Thriller",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 42145,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0252503/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xrwwSXFeW35wYsnobreXbGxHwUC.jpg"
+    },
+    {
         "title": "Carry-On",
         "year": 2024,
         "genres": "Thriller, Action",
@@ -35016,28 +35244,16 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg"
     },
     {
-        "title": "The Man in the Iron Mask",
-        "year": 1998,
-        "genres": "Adventure, Action, Drama",
+        "title": "Tag",
+        "year": 2018,
+        "genres": "Comedy, Action",
         "raw_score": 6.5,
         "weighted_score": 6.5,
-        "votes": 193271,
+        "votes": 165679,
         "platform": "Netflix",
         "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0120744/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zHE9yRURvA7DyhYtQxkGTfE1Ywi.jpg"
-    },
-    {
-        "title": "Get Smart",
-        "year": 2008,
-        "genres": "Action, Comedy, Thriller",
-        "raw_score": 6.5,
-        "weighted_score": 6.5,
-        "votes": 241517,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0425061/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/sZUjbtUS8qxXp4mj90evnqPJqX7.jpg"
+        "imdb_url": "https://www.imdb.com/title/tt2854926/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg"
     },
     {
         "title": "Triple Frontier",
@@ -35064,30 +35280,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg"
     },
     {
-        "title": "Heist",
-        "year": 2001,
-        "genres": "Action, Crime, Drama, Thriller",
-        "raw_score": 6.5,
-        "weighted_score": 6.5,
-        "votes": 42145,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0252503/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xrwwSXFeW35wYsnobreXbGxHwUC.jpg"
-    },
-    {
-        "title": "Tag",
-        "year": 2018,
-        "genres": "Comedy, Action",
-        "raw_score": 6.5,
-        "weighted_score": 6.5,
-        "votes": 165679,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt2854926/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg"
-    },
-    {
         "title": "Gerald's Game",
         "year": 2017,
         "genres": "Horror, Thriller, Drama",
@@ -35100,16 +35292,40 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/32dippiypDdaKv7XFEfUlQ7kPup.jpg"
     },
     {
-        "title": "I'm Thinking of Ending Things",
-        "year": 2020,
-        "genres": "Mystery, Thriller, Drama",
+        "title": "Life As We Know It",
+        "year": 2010,
+        "genres": "Comedy, Romance, Drama",
         "raw_score": 6.5,
         "weighted_score": 6.5,
-        "votes": 112871,
+        "votes": 146927,
         "platform": "Netflix",
         "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt7939766/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg"
+        "imdb_url": "https://www.imdb.com/title/tt1055292/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg"
+    },
+    {
+        "title": "Cellular",
+        "year": 2004,
+        "genres": "Action, Thriller, Drama, Crime",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 110803,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0337921/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/AhD3qVfVmxz5CXDxctXwK5nmrOp.jpg"
+    },
+    {
+        "title": "Fractured",
+        "year": 2019,
+        "genres": "Thriller, Drama",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 118048,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt4332232/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg"
     },
     {
         "title": "Back to the Outback",
@@ -35134,30 +35350,6 @@
         "region": "Korean Cinema / K-Film",
         "imdb_url": "https://www.imdb.com/title/tt12838766/",
         "poster_url": "https://image.tmdb.org/t/p/w500/bmemsraCG1kIthY74NjDnnLRT2Q.jpg"
-    },
-    {
-        "title": "Life As We Know It",
-        "year": 2010,
-        "genres": "Comedy, Romance, Drama",
-        "raw_score": 6.5,
-        "weighted_score": 6.5,
-        "votes": 146927,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt1055292/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg"
-    },
-    {
-        "title": "Money Monster",
-        "year": 2016,
-        "genres": "Thriller, Drama",
-        "raw_score": 6.5,
-        "weighted_score": 6.5,
-        "votes": 113267,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt2241351/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/DlgdAkAKirD01R1mBejhFjS6nQ.jpg"
     },
     {
         "title": "Out of the Clear Blue Sky",
@@ -35230,6 +35422,18 @@
         "region": "Korean Cinema / K-Film",
         "imdb_url": "https://www.imdb.com/title/tt19768508/",
         "poster_url": "https://image.tmdb.org/t/p/w500/eRlW6yvXHyXPuN0Ea6u6Sc48lGm.jpg"
+    },
+    {
+        "title": "It's a Mad, Mad, Mad World",
+        "year": 1987,
+        "genres": "Comedy",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 460,
+        "platform": "Netflix",
+        "region": "Hong Kong Cinema (Cantonese)",
+        "imdb_url": "https://www.imdb.com/title/tt0091090/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rFqI70gcRm9V8OFBRAkJmSQxHY6.jpg"
     },
     {
         "title": "Mobile Suit Gundam SEED FREEDOM",
@@ -36024,18 +36228,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg"
     },
     {
-        "title": "And Starring Pancho Villa as Himself",
-        "year": 2003,
-        "genres": "Drama, History, War, Western, TV Movie",
-        "raw_score": 6.5,
-        "weighted_score": 6.5,
-        "votes": 3923,
-        "platform": "HBO",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0337824/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aPXm56o3tEQdk0QTR6sZzmyw4f5.jpg"
-    },
-    {
         "title": "Everyday People",
         "year": 2004,
         "genres": "Drama, TV Movie",
@@ -36046,6 +36238,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt0365020/",
         "poster_url": "https://image.tmdb.org/t/p/w500/cIqt9Wy2EpyJI6sBlDQ4lZmFlje.jpg"
+    },
+    {
+        "title": "And Starring Pancho Villa as Himself",
+        "year": 2003,
+        "genres": "Drama, History, War, Western, TV Movie",
+        "raw_score": 6.5,
+        "weighted_score": 6.5,
+        "votes": 3923,
+        "platform": "HBO",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0337824/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/aPXm56o3tEQdk0QTR6sZzmyw4f5.jpg"
     },
     {
         "title": "The Vagina Monologues",
@@ -36288,18 +36492,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7UYeDUzFIscGVr0mo7isvnrVYvO.jpg"
     },
     {
-        "title": "Entourage",
-        "year": 2015,
-        "genres": "Comedy, Drama",
-        "raw_score": 6.5,
-        "weighted_score": 6.499999999999999,
-        "votes": 86720,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt1674771/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/28dqsx1jCxhR05DfH35ui13ywNZ.jpg"
-    },
-    {
         "title": "Shawn Mendes: In Wonder",
         "year": 2020,
         "genres": "Music, Documentary",
@@ -36446,7 +36638,7 @@
     {
         "title": "Draw This, Then Die!",
         "year": 2026,
-        "genres": "Animation, Comedy (Series)",
+        "genres": "Animation, Comedy, Drama (Series)",
         "raw_score": 7.9,
         "weighted_score": 6.478,
         "votes": 207,
@@ -36454,6 +36646,18 @@
         "region": "Japanese Cinema / Anime",
         "imdb_url": "https://www.imdb.com/title/tt36290385/",
         "poster_url": "https://image.tmdb.org/t/p/w500/ugfkqXyGYaUH9kNSwbBHwsEbiqJ.jpg"
+    },
+    {
+        "title": "The 13 Lords of the Shogun",
+        "year": 2022,
+        "genres": "Drama (Series)",
+        "raw_score": 7.9,
+        "weighted_score": 6.478,
+        "votes": 134,
+        "platform": "Netflix",
+        "region": "Japanese Cinema / Anime",
+        "imdb_url": "https://www.imdb.com/title/tt16275756/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/cv4Sj1Xwlsng6bEMt1A8WDgfNEx.jpg"
     },
     {
         "title": "Miss You Can Do It",
@@ -36960,18 +37164,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/a1Eubtd5zCISRsGxpd3CiAYkBao.jpg"
     },
     {
-        "title": "The Orbital Children",
-        "year": 2022,
-        "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy (Series)",
-        "raw_score": 6.4,
-        "weighted_score": 6.425107604017216,
-        "votes": 1044,
-        "platform": "Netflix",
-        "region": "Japanese Cinema / Anime",
-        "imdb_url": "https://www.imdb.com/title/tt13351614/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6rOkpAOflfJs7AVAkp52QcusQzQ.jpg"
-    },
-    {
         "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
         "year": 2025,
         "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy, Drama (Series)",
@@ -37464,6 +37656,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mUVZHkJPKDYgDy1dbDdi0Esj9eB.jpg"
     },
     {
+        "title": "The Choral",
+        "year": 2025,
+        "genres": "Comedy, Drama, Music",
+        "raw_score": 6.4,
+        "weighted_score": 6.405882352941177,
+        "votes": 5600,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt31851518/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg"
+    },
+    {
         "title": "The Yin-Yang Master: Dream of Eternity",
         "year": 2020,
         "genres": "Action, Drama, Fantasy, Mystery, Sci-Fi",
@@ -37798,18 +38002,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt5113040/",
         "poster_url": "https://image.tmdb.org/t/p/w500/s9xg4V5EDKiphgIksVJ9gewBM11.jpg"
-    },
-    {
-        "title": "No Reservations",
-        "year": 2007,
-        "genres": "Comedy, Romance, Drama",
-        "raw_score": 6.4,
-        "weighted_score": 6.400401647903972,
-        "votes": 86791,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0481141/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/eKqfRSf0DZ0Qey1f9ZHuZfsmXVR.jpg"
     },
     {
         "title": "No Reservations",
@@ -38568,6 +38760,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg"
     },
     {
+        "title": "Aema",
+        "year": 2025,
+        "genres": "Drama, Comedy (Series)",
+        "raw_score": 6.3,
+        "weighted_score": 6.372538860103628,
+        "votes": 615,
+        "platform": "Netflix",
+        "region": "Korean Cinema / K-Film",
+        "imdb_url": "https://www.imdb.com/title/tt29059394/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jD8uwm1fvt6y2yxjSO6R9IOFwQQ.jpg"
+    },
+    {
         "title": "Tuiskoms",
         "year": 2025,
         "genres": "Drama (Series)",
@@ -39156,18 +39360,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/hfH54RSX7rGAlo6aS1HLyzLdM0B.jpg"
     },
     {
-        "title": "Detective Conan: The Scarlet Bullet",
-        "year": 2021,
-        "genres": "Animation, Action, Crime, Mystery, Romance, Thriller",
-        "raw_score": 6.3,
-        "weighted_score": 6.325897151313356,
-        "votes": 2353,
-        "platform": "Netflix",
-        "region": "Japanese Cinema / Anime",
-        "imdb_url": "https://www.imdb.com/title/tt12093860/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wowJzvF1KqEFSZoArkgngRy1r4L.jpg"
-    },
-    {
         "title": "Turning Point: Generation 9/11",
         "year": 2026,
         "genres": "Documentary",
@@ -39346,6 +39538,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt12879632/",
         "poster_url": "https://image.tmdb.org/t/p/w500/pFpZNexdMLM1nLALKHVDhPbuMtM.jpg"
+    },
+    {
+        "title": "Kylie - Tension Tour Live",
+        "year": 2026,
+        "genres": "Music",
+        "raw_score": 7.7,
+        "weighted_score": 6.314,
+        "votes": 159,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt43088166/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xuR4AcijnQhz0wGAmETb9ippes9.jpg"
     },
     {
         "title": "Sinagtala",
@@ -39732,18 +39936,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fekkWALV563XGUaBiwYHdV4UBQ6.jpg"
     },
     {
-        "title": "Love and Leashes",
-        "year": 2022,
-        "genres": "Romance, Comedy",
-        "raw_score": 6.3,
-        "weighted_score": 6.30796994193328,
-        "votes": 8433,
-        "platform": "Netflix",
-        "region": "Korean Cinema / K-Film",
-        "imdb_url": "https://www.imdb.com/title/tt15553956/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/yQgGYiHUoDYeA4TbYlghpA5lmKH.jpg"
-    },
-    {
         "title": "Full Circle",
         "year": 2023,
         "genres": "Crime, Drama (Series)",
@@ -39814,6 +40006,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt10714856/",
         "poster_url": "https://image.tmdb.org/t/p/w500/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg"
+    },
+    {
+        "title": "Headshot",
+        "year": 2016,
+        "genres": "Action, Thriller, Drama",
+        "raw_score": 6.3,
+        "weighted_score": 6.303868471953578,
+        "votes": 17745,
+        "platform": "Netflix",
+        "region": "International / Global Catalog",
+        "imdb_url": "https://www.imdb.com/title/tt5147214/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/lGamnocYl4omp1txOs21OjEmgux.jpg"
     },
     {
         "title": "Orion and the Dark",
@@ -40066,18 +40270,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt2106651/",
         "poster_url": "https://image.tmdb.org/t/p/w500/5yprxs7ZyBr58RsTQJrKCVmqk8X.jpg"
-    },
-    {
-        "title": "Kate",
-        "year": 2021,
-        "genres": "Action, Thriller",
-        "raw_score": 6.3,
-        "weighted_score": 6.300889645793882,
-        "votes": 78333,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt7737528/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uJgdT1boTSP0dDIjdTgGleg71l4.jpg"
     },
     {
         "title": "Ninja Assassin",
@@ -40382,7 +40574,7 @@
     {
         "title": "Tomb Raider",
         "year": 2018,
-        "genres": "Action, Adventure, Fantasy",
+        "genres": "Action, Adventure",
         "raw_score": 6.3,
         "weighted_score": 6.300284799440165,
         "votes": 245437,
@@ -41148,6 +41340,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/pk4vA5eGEbjMZMD19WSePqh9d4z.jpg"
     },
     {
+        "title": "Dr. Coto's Clinic",
+        "year": 2003,
+        "genres": "Drama (Series)",
+        "raw_score": 7.6,
+        "weighted_score": 6.231999999999999,
+        "votes": 197,
+        "platform": "Netflix",
+        "region": "Japanese Cinema / Anime",
+        "imdb_url": "https://www.imdb.com/title/tt0377168/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/8QDEiTZYBnzn0xJPt0jSxC2Ellm.jpg"
+    },
+    {
         "title": "A Choice of Weapons: Inspired by Gordon Parks",
         "year": 2021,
         "genres": "Documentary",
@@ -41170,18 +41374,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt0876120/",
         "poster_url": ""
-    },
-    {
-        "title": "Ed, Edd n Eddy’s Jingle Jingle Jangle",
-        "year": 2004,
-        "genres": "Animation, Comedy, TV Movie, Family",
-        "raw_score": 7.6,
-        "weighted_score": 6.231999999999999,
-        "votes": 237,
-        "platform": "HBO",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0871611/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/A1pHZzt1yQ7aF2sDLgjfkEXkxV6.jpg"
     },
     {
         "title": "Corregidora: The Darkest Night in Mexican Soccer",
@@ -41652,18 +41844,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8XhV6ke8ltRYoG4SYmibF2bGwrC.jpg"
     },
     {
-        "title": "Reagan",
-        "year": 2024,
-        "genres": "History, Drama",
-        "raw_score": 6.2,
-        "weighted_score": 6.20736531986532,
-        "votes": 13906,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt1723808/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/o21NB4f5fNk1dtrRlyAmA0C0cb3.jpg"
-    },
-    {
         "title": "Rugrats in Paris: The Movie",
         "year": 2000,
         "genres": "Adventure, Animation, Comedy, Family, Romance",
@@ -41746,6 +41926,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt6933238/",
         "poster_url": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
+    },
+    {
+        "title": "After the Sunset",
+        "year": 2004,
+        "genres": "Action, Comedy, Crime, Drama",
+        "raw_score": 6.2,
+        "weighted_score": 6.201920122887865,
+        "votes": 54334,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0367479/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ldor5Ep0B01TCfwZ2vWWA8VPT6U.jpg"
     },
     {
         "title": "Evil Dead Burn",
@@ -42540,6 +42732,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wZaTxeHZhyv5MLRUORJHAusKSOZ.jpg"
     },
     {
+        "title": "Lock-Up: The Prisoners of Rikers Island",
+        "year": 1994,
+        "genres": "Documentary, TV Movie",
+        "raw_score": 7.5,
+        "weighted_score": 6.1499999999999995,
+        "votes": 299,
+        "platform": "HBO",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0113684/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/lig49xZusaADQOMOtooebPWwJnv.jpg"
+    },
+    {
         "title": "Naked and Afraid: Apocalypse",
         "year": 2025,
         "genres": "Reality TV",
@@ -43020,18 +43224,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg"
     },
     {
-        "title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
-        "year": 2016,
-        "genres": "Action, Adventure, Drama",
-        "raw_score": 6.1,
-        "weighted_score": 6.106225542511561,
-        "votes": 22138,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt2652118/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/te3aeAyhkfqgpa5BSTq3oNxGqQD.jpg"
-    },
-    {
         "title": "The Many Lives of Benjaman Kyle",
         "year": 2026,
         "genres": "Crime, Documentary (Series)",
@@ -43114,18 +43306,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt1083456/",
         "poster_url": "https://image.tmdb.org/t/p/w500/ifTjxzY6ZlFOVEypy1B9FFpiZUp.jpg"
-    },
-    {
-        "title": "Duplicity",
-        "year": 2009,
-        "genres": "Romance, Comedy, Crime",
-        "raw_score": 6.1,
-        "weighted_score": 6.1025555373017175,
-        "votes": 54433,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt1135487/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg"
     },
     {
         "title": "Drop",
@@ -44904,6 +45084,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg"
     },
     {
+        "title": "Quarantine",
+        "year": 2008,
+        "genres": "Horror, Sci-Fi, Thriller",
+        "raw_score": 6.0,
+        "weighted_score": 6.002046448534744,
+        "votes": 85164,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt1082868/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rGfOD8IC1x4PqmnqRuA8KyCckia.jpg"
+    },
+    {
         "title": "The Last Song",
         "year": 2010,
         "genres": "Drama, Family, Romance",
@@ -44978,7 +45170,7 @@
     {
         "title": "The 6th Day",
         "year": 2000,
-        "genres": "Action, Sci-Fi, Thriller",
+        "genres": "Action, Mystery, Sci-Fi, Thriller",
         "raw_score": 6.0,
         "weighted_score": 6.00128985656795,
         "votes": 135324,
@@ -45094,6 +45286,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt0163025/",
         "poster_url": "https://image.tmdb.org/t/p/w500/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg"
+    },
+    {
+        "title": "Transformers: Revenge of the Fallen",
+        "year": 2009,
+        "genres": "Sci-Fi, Action, Adventure",
+        "raw_score": 6.0,
+        "weighted_score": 6.0003798402500435,
+        "votes": 460370,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt1055369/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg"
     },
     {
         "title": "Transformers: Revenge of the Fallen",
@@ -46500,6 +46704,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5chPJRFWC2BVdaBj87YIHnB7rTc.jpg"
     },
     {
+        "title": "Country Doctor",
+        "year": 2025,
+        "genres": "Documentary",
+        "raw_score": 7.2,
+        "weighted_score": 5.904,
+        "votes": 128,
+        "platform": "HBO",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt37738705/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/m7XZWCBNYKUAULWSEfQKvpD8FpY.jpg"
+    },
+    {
         "title": "Fatal Flight: Shoreham",
         "year": 2023,
         "genres": "Documentary",
@@ -47340,18 +47556,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/p6NQOlvAcdK6VJ4CoZMzLUQLtfL.jpg"
     },
     {
-        "title": "Without Saying Goodbye",
-        "year": 2022,
-        "genres": "Comedy, Romance",
-        "raw_score": 5.8,
-        "weighted_score": 5.856884142094266,
-        "votes": 3957,
-        "platform": "Netflix",
-        "region": "Spanish / Latin Cinema",
-        "imdb_url": "https://www.imdb.com/title/tt14404596/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/11SOeFmUEHahuyMOxxT1wdJ3iJs.jpg"
-    },
-    {
         "title": "The Healer Who Was Banished from His Party, Is, in Fact, the Strongest",
         "year": 2024,
         "genres": "Animation, Action & Adventure (Series)",
@@ -47400,18 +47604,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fIjIEZ8ug2pLGbV2JiKytZyj2NG.jpg"
     },
     {
-        "title": "The Bravest",
-        "year": 2019,
-        "genres": "Drama, Action",
-        "raw_score": 5.7,
-        "weighted_score": 5.851843817787419,
-        "votes": 1494,
-        "platform": "Netflix",
-        "region": "Chinese Cinema (Mandarin)",
-        "imdb_url": "https://www.imdb.com/title/tt10218674/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wuFHsaAyTxbCBXDDXuvbaUqFxwz.jpg"
-    },
-    {
         "title": "Welcome to Plathville",
         "year": 2019,
         "genres": "Reality TV, Family",
@@ -47458,18 +47650,6 @@
         "region": "French / European Cinema",
         "imdb_url": "https://www.imdb.com/title/tt36240772/",
         "poster_url": "https://image.tmdb.org/t/p/w500/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg"
-    },
-    {
-        "title": "Xtreme",
-        "year": 2021,
-        "genres": "Action, Adventure, Crime",
-        "raw_score": 5.8,
-        "weighted_score": 5.840369088811996,
-        "votes": 5719,
-        "platform": "Netflix",
-        "region": "Spanish / Latin Cinema",
-        "imdb_url": "https://www.imdb.com/title/tt11658120/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cwUhVcDeMYYeu8fq5q1OPOoSbZ7.jpg"
     },
     {
         "title": "We Baby Bears",
@@ -48192,18 +48372,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg"
     },
     {
-        "title": "Troll",
-        "year": 2022,
-        "genres": "Fantasy, Action, Adventure",
-        "raw_score": 5.8,
-        "weighted_score": 5.804042303948258,
-        "votes": 60259,
-        "platform": "Netflix",
-        "region": "International / Global Catalog",
-        "imdb_url": "https://www.imdb.com/title/tt11116912/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ulgKdif3ubMACDltr8VZy6fyVjW.jpg"
-    },
-    {
         "title": "The Babysitter: Killer Queen",
         "year": 2020,
         "genres": "Comedy, Horror",
@@ -48214,18 +48382,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt11024272/",
         "poster_url": "https://image.tmdb.org/t/p/w500/imy1OoT1xddt2kqw6hhc4v01e8i.jpg"
-    },
-    {
-        "title": "Extinction",
-        "year": 2018,
-        "genres": "Action, Drama, Sci-Fi, Thriller",
-        "raw_score": 5.8,
-        "weighted_score": 5.803854261712236,
-        "votes": 63216,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt3201640/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qjnNdjrZIdi7d316SjjkgEjJRSg.jpg"
     },
     {
         "title": "What a Girl Wants",
@@ -48334,6 +48490,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt0116705/",
         "poster_url": "https://image.tmdb.org/t/p/w500/vhdLrQ3P2JxlxsTREUsr2nbtnjS.jpg"
+    },
+    {
+        "title": "Valentine's Day",
+        "year": 2010,
+        "genres": "Comedy, Romance",
+        "raw_score": 5.8,
+        "weighted_score": 5.801847118871524,
+        "votes": 132289,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0817230/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/qOTcfD2DdnOTmhH0r1TOE09VvNh.jpg"
     },
     {
         "title": "Downsizing",
@@ -48924,6 +49092,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ppEXlChC27GBXdRj93Qq3uvCBBD.jpg"
     },
     {
+        "title": "Soar High!",
+        "year": 2022,
+        "genres": "Drama (Series)",
+        "raw_score": 7.0,
+        "weighted_score": 5.739999999999999,
+        "votes": 32,
+        "platform": "Netflix",
+        "region": "Japanese Cinema / Anime",
+        "imdb_url": "https://www.imdb.com/title/tt16274276/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9eeqetibf0GeXEDpC4vYnU324v8.jpg"
+    },
+    {
         "title": "Octonauts: Above & Beyond",
         "year": 2021,
         "genres": "Animation, Kids, Family (Series)",
@@ -49236,18 +49416,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg"
     },
     {
-        "title": "Pokémon the Movie: Mewtwo Strikes Back - Evolution",
-        "year": 2019,
-        "genres": "Animation, Adventure, Fantasy, Action, Family",
-        "raw_score": 5.7,
-        "weighted_score": 5.736639623135305,
-        "votes": 7292,
-        "platform": "Netflix",
-        "region": "Japanese Cinema / Anime",
-        "imdb_url": "https://www.imdb.com/title/tt8856470/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rtlyO2oIMcCx2DbOM52XO2rAcgn.jpg"
-    },
-    {
         "title": "Traffic Stop",
         "year": 2017,
         "genres": "Documentary",
@@ -49498,6 +49666,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt9784456/",
         "poster_url": "https://image.tmdb.org/t/p/w500/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg"
+    },
+    {
+        "title": "Your Place or Mine",
+        "year": 2023,
+        "genres": "Romance, Comedy",
+        "raw_score": 5.7,
+        "weighted_score": 5.706097295413963,
+        "votes": 45572,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt12823454/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg"
     },
     {
         "title": "Money Train",
@@ -50736,6 +50916,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg"
     },
     {
+        "title": "Sex/Life",
+        "year": 2021,
+        "genres": "Drama (Series)",
+        "raw_score": 5.6,
+        "weighted_score": 5.608846575111635,
+        "votes": 35257,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt10839422/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg"
+    },
+    {
         "title": "Untold Raygun: Breaking Badly",
         "year": 2026,
         "genres": "Documentary",
@@ -50758,18 +50950,6 @@
         "region": "International / Global Catalog",
         "imdb_url": "https://www.imdb.com/title/tt33269635/",
         "poster_url": "https://image.tmdb.org/t/p/w500/5Qf3RfNU2uwxkIdKnCkBmZcfRK8.jpg"
-    },
-    {
-        "title": "Sweet Girl",
-        "year": 2021,
-        "genres": "Action, Thriller, Drama",
-        "raw_score": 5.6,
-        "weighted_score": 5.6080336648814075,
-        "votes": 38860,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt10731768/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg"
     },
     {
         "title": "The Bride!",
@@ -51046,6 +51226,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt10838180/",
         "poster_url": "https://image.tmdb.org/t/p/w500/8c4a8kE7PizaGQQnditMmI1xbRp.jpg"
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "year": 2014,
+        "genres": "Sci-Fi, Action, Adventure",
+        "raw_score": 5.6,
+        "weighted_score": 5.600886579716182,
+        "votes": 354948,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt2109248/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg"
     },
     {
         "title": "Transformers: Age of Extinction",
@@ -51612,6 +51804,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/uOR6CFlM978s382eyjLo5EahB8L.jpg"
     },
     {
+        "title": "Through My Window 3: Looking at You",
+        "year": 2024,
+        "genres": "Romance, Drama, Comedy",
+        "raw_score": 5.5,
+        "weighted_score": 5.54441060779089,
+        "votes": 7531,
+        "platform": "Netflix",
+        "region": "Spanish / Latin Cinema",
+        "imdb_url": "https://www.imdb.com/title/tt28105944/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gwpTgtwVAwmvivBN8rAQABpx9Am.jpg"
+    },
+    {
         "title": "Spellbound",
         "year": 2024,
         "genres": "Animation, Fantasy, Family, Adventure, Comedy",
@@ -51670,18 +51874,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt10736580/",
         "poster_url": "https://image.tmdb.org/t/p/w500/9clw9UBQXmi3EFgjgIPGJSluQr7.jpg"
-    },
-    {
-        "title": "Family Pack",
-        "year": 2024,
-        "genres": "Adventure, Comedy, Fantasy, Action, Family",
-        "raw_score": 5.5,
-        "weighted_score": 5.528820816864295,
-        "votes": 11794,
-        "platform": "Netflix",
-        "region": "French / European Cinema",
-        "imdb_url": "https://www.imdb.com/title/tt29195603/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uL1dR0L65GZgy3h2gvZcxDu0bRG.jpg"
     },
     {
         "title": "All the Devils Are Here",
@@ -52524,18 +52716,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/s3Cl5tylJMxfwxlTwfSyKD4fepy.jpg"
     },
     {
-        "title": "David Brenner: Back with a Vengeance!",
-        "year": 2000,
-        "genres": "Comedy",
-        "raw_score": 6.7,
-        "weighted_score": 5.494,
-        "votes": 93,
-        "platform": "HBO",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0252362/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xikQYh69CIIb3bx97P4FkVgHLm3.jpg"
-    },
-    {
         "title": "Tracey Ullman in the Trailer Tales",
         "year": 2003,
         "genres": "Comedy, TV Movie",
@@ -52546,6 +52726,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt0358086/",
         "poster_url": "https://image.tmdb.org/t/p/w500/fUK4wnmmcNm3WIIpF3gf6DYYceS.jpg"
+    },
+    {
+        "title": "David Brenner: Back with a Vengeance!",
+        "year": 2000,
+        "genres": "Comedy",
+        "raw_score": 6.7,
+        "weighted_score": 5.494,
+        "votes": 93,
+        "platform": "HBO",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt0252362/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xikQYh69CIIb3bx97P4FkVgHLm3.jpg"
     },
     {
         "title": "Please Die My Beloved",
@@ -53494,6 +53686,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt7315484/",
         "poster_url": "https://image.tmdb.org/t/p/w500/lTVOquzxw2DPF3MKuYd1ynz9F6H.jpg"
+    },
+    {
+        "title": "Rebel Moon - Part Two: The Scargiver",
+        "year": 2024,
+        "genres": "Sci-Fi, Action, Adventure",
+        "raw_score": 5.4,
+        "weighted_score": 5.405845467105963,
+        "votes": 65513,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt23137904/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg"
     },
     {
         "title": "Scream 7",
@@ -54450,6 +54654,18 @@
         "raw_score": 5.3,
         "weighted_score": 5.301325837092502,
         "votes": 316431,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt7126948/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg"
+    },
+    {
+        "title": "Wonder Woman 1984",
+        "year": 2020,
+        "genres": "Action, Adventure, Fantasy",
+        "raw_score": 5.3,
+        "weighted_score": 5.301325837092502,
+        "votes": 316431,
         "platform": "HBO",
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt7126948/",
@@ -54490,18 +54706,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt15684008/",
         "poster_url": "https://image.tmdb.org/t/p/w500/rdOhwGutz97NBfyG02o3tDQ7vIw.jpg"
-    },
-    {
-        "title": "Hello, Goodbye, and Everything in Between",
-        "year": 2022,
-        "genres": "Romance, Drama",
-        "raw_score": 5.2,
-        "weighted_score": 5.281047381546134,
-        "votes": 5264,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt4181158/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xyGsnp4Ld5PmJYYWnfuYYoENhHt.jpg"
     },
     {
         "title": "Fixed",
@@ -54936,6 +55140,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3kULr3y7ZhdY3oCHKwwNT2hqys0.jpg"
     },
     {
+        "title": "Obsession",
+        "year": 2023,
+        "genres": "Drama, Mystery (Series)",
+        "raw_score": 5.2,
+        "weighted_score": 5.236042458808618,
+        "votes": 12274,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt18831118/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/8nQmxCYvidrCMxYCPdhuls94cl9.jpg"
+    },
+    {
         "title": "Gold Rush Gang",
         "year": 2025,
         "genres": "Action, Comedy, Drama, Western",
@@ -54994,6 +55210,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt0106676/",
         "poster_url": "https://image.tmdb.org/t/p/w500/dAPUDM50vPIoAqekqeYvj4rE2uK.jpg"
+    },
+    {
+        "title": "She Said Maybe",
+        "year": 2025,
+        "genres": "Comedy, Romance, Drama",
+        "raw_score": 5.0,
+        "weighted_score": 5.211352657004831,
+        "votes": 2134,
+        "platform": "Netflix",
+        "region": "German / European Cinema",
+        "imdb_url": "https://www.imdb.com/title/tt36754289/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ujNDflVpoFsBqlbVt58pc7lT1WR.jpg"
     },
     {
         "title": "Under Paris",
@@ -55114,6 +55342,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt11315808/",
         "poster_url": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg"
+    },
+    {
+        "title": "Transformers: The Last Knight",
+        "year": 2017,
+        "genres": "Action, Adventure, Sci-Fi",
+        "raw_score": 5.2,
+        "weighted_score": 5.202383334468255,
+        "votes": 190559,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt3371366/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg"
     },
     {
         "title": "Transformers: The Last Knight",
@@ -55752,18 +55992,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/2ayOQIh18qhJRoajoAxxGuZXry2.jpg"
     },
     {
-        "title": "Carter",
-        "year": 2022,
-        "genres": "Action, Thriller, Crime",
-        "raw_score": 5.1,
-        "weighted_score": 5.143023970497849,
-        "votes": 11039,
-        "platform": "Netflix",
-        "region": "Korean Cinema / K-Film",
-        "imdb_url": "https://www.imdb.com/title/tt21237030/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uzAh3Ub2YttCz13cnyB9PvhpmIL.jpg"
-    },
-    {
         "title": "Almost Cops",
         "year": 2025,
         "genres": "Action, Comedy, Crime, Mystery",
@@ -56062,6 +56290,18 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt33344252/",
         "poster_url": "https://image.tmdb.org/t/p/w500/59jB3ECurFN3iz61Bs9zhq5p6ad.jpg"
+    },
+    {
+        "title": "Kinnikuman Perfect Origin Arc",
+        "year": 2024,
+        "genres": "Animation, Comedy, Action & Adventure (Series)",
+        "raw_score": 6.2,
+        "weighted_score": 5.084,
+        "votes": 154,
+        "platform": "Netflix",
+        "region": "Japanese Cinema / Anime",
+        "imdb_url": "https://www.imdb.com/title/tt29338030/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/tkhMzWi33pPpyxJDwAs3xiqLiGA.jpg"
     },
     {
         "title": "The Serial Killer's Apprentice",
@@ -57094,18 +57334,6 @@
         "region": "Spanish / Latin Cinema",
         "imdb_url": "https://www.imdb.com/title/tt27729779/",
         "poster_url": "https://image.tmdb.org/t/p/w500/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg"
-    },
-    {
-        "title": "Ghosts of Mars",
-        "year": 2001,
-        "genres": "Action, Horror, Sci-Fi",
-        "raw_score": 4.9,
-        "weighted_score": 4.908751367401156,
-        "votes": 63640,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0228333/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/i2zztssCIbahGES1fdfWFmDXian.jpg"
     },
     {
         "title": "Untold: The Liver King",
@@ -58500,6 +58728,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg"
     },
     {
+        "title": "Mike Tyson: Return of the Mike",
+        "year": 2026,
+        "genres": "Comedy",
+        "raw_score": 5.6,
+        "weighted_score": 4.592,
+        "votes": 91,
+        "platform": "Netflix",
+        "region": "Hollywood/Global English",
+        "imdb_url": "https://www.imdb.com/title/tt46068179/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg"
+    },
+    {
         "title": "Mojo Brookzz: I Know You Lying",
         "year": 2026,
         "genres": "Comedy",
@@ -58786,18 +59026,6 @@
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt2515086/",
         "poster_url": "https://image.tmdb.org/t/p/w500/b720e7DW3nqRJaUH9xpTtvYhnUj.jpg"
-    },
-    {
-        "title": "Nutty Professor II: The Klumps",
-        "year": 2000,
-        "genres": "Comedy, Sci-Fi",
-        "raw_score": 4.5,
-        "weighted_score": 4.512345896753029,
-        "votes": 56349,
-        "platform": "Netflix",
-        "region": "Hollywood/Global English",
-        "imdb_url": "https://www.imdb.com/title/tt0144528/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/v8gI95Eio7kAjixyqYHxNKmJTmm.jpg"
     },
     {
         "title": "Ouija",
@@ -60840,6 +61068,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nSE7PLJoYsclxgmF9mSVnHBPy9C.jpg"
     },
     {
+        "title": "Sleeping Princess",
+        "year": 2024,
+        "genres": "Romance, Comedy, Fantasy",
+        "raw_score": 4.1,
+        "weighted_score": 3.3619999999999997,
+        "votes": 235,
+        "platform": "Netflix",
+        "region": "International / Global Catalog",
+        "imdb_url": "https://www.imdb.com/title/tt32658488/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2snH1Itt1Zs20KFLyIFqPOkyJaV.jpg"
+    },
+    {
         "title": "Destinations of the Damned with Zak Bagans",
         "year": 2024,
         "genres": "Documentary (Series)",
@@ -61197,7 +61437,7 @@
         "platform": "Netflix",
         "region": "Hollywood/Global English",
         "imdb_url": "https://www.imdb.com/title/tt38515310/",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wCBlcfbVPiK0mc13mgJDEoxRBHB.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
     },
     {
         "title": "Adili Idola Celebrity Roast: Reza Oktovian",
